@@ -108,14 +108,10 @@ const config: Config = {
           label: 'API Reference',
           docsPluginId: 'api'
         },
+
         {
-          href: 'mailto:contact@tscircuit.com',
-          label: 'Support',
-          position: 'right',
-        },
-        {
-          href: 'https://tscircuit.com/trending',
-          label: 'Find Packages',
+          href: 'https://tscircuit.com',
+          label: 'Try Online',
           position: 'right',
         },
         {
