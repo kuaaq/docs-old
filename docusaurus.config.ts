@@ -119,6 +119,11 @@ const config: Config = {
           position: 'right',
         },
         {
+          href: 'https://discord.com/invite/V7FGE5ZCbA',
+          label: 'Discord',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/tscircuit/tscircuit',
           position: 'right',
           className: 'header-github-link',
